@@ -731,7 +731,7 @@
 .clickable-11uBi-:hover, 
 .selected-BYpGTS {
     color: white !important;
-    background-color: rgba(144, 30, 80, .4);
+    background-color: rgba(53, 110, 210, 0.4);
 }
 
 .theme-dark .footer-5ji8u1,
@@ -835,7 +835,7 @@
 .theme-dark .newMessagesBar-1hF-9G,
 .jumpToPresentBar-1cEnH0,
 .container-A2jo65 {
-    background-color: #582060 !important;
+    background-color: #164a64 !important;
     box-shadow: none;
     opacity: 0.6;
 }
@@ -877,7 +877,7 @@
 
 .botTagRegular-kpctgU,
 .botTagInvert-1nKcq_ {
-    background: #582060;
+    background: #1e52a2;
     color: white;
 }
 
